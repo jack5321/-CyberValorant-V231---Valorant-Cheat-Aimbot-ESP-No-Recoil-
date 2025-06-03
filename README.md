@@ -28,7 +28,6 @@
 ## ⚠ Risks & Warnings  
 - **Vanguard may detect this cheat** — use a *smurf account*.  
 - **HWID bans** are possible. Proceed with caution.  
-- Updates may break functionality. Check the site for fixes.  
 
 ---
 
