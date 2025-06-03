@@ -47,4 +47,4 @@
 ---
 
 ## 📜 License  
-This project is licensed under **GPLv3**. Use responsibly.  
+This project is licensed under **MIT**. Use responsibly.  
